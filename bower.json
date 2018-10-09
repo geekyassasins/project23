@@ -1,0 +1,20 @@
+{
+  "name": "social-link-builder",
+  "authors": "Tony Lopez",
+  "description": "A jQuery Plugin that builds the social links for you",
+  "keywords": [
+    "social",
+    "jquery",
+    "link",
+    "builder"
+  ],
+  "main": "socialLinkBuilder.js",
+  "ignore": [
+    "bower_components"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  },
+  "homepage": "https://github.com/lopeax/socialLinkBuilder"
+}
